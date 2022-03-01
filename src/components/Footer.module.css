@@ -1,0 +1,20 @@
+footer {
+  margin-top: 50px;
+  height: 64px;
+  background: #161619;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-radius: 0 0 10px 10px;
+}
+
+.icons {
+  width: 160px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.icons > img {
+  width: 25px;
+  height: 25px;
+}
