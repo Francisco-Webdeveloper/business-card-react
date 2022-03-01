@@ -1,0 +1,22 @@
+.aboutTitle,
+.interestsTitle {
+  font-weight: 700;
+  color: #f5f5f5;
+  margin-bottom: 0;
+}
+
+.aboutDescription,
+.interestsDescription {
+  color: #dcdcdc;
+  font-size: 10px;
+  line-height: 150%;
+  margin-top: 5px;
+}
+
+.aboutTitle {
+  margin-top: 33px;
+}
+
+.interestsTitle {
+  margin-top: 27px;
+}
