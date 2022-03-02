@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "//francisco-webdeveloper.github.io/business-card-react/static/css/main.3322f003.css",
+    "main.js": "//francisco-webdeveloper.github.io/business-card-react/static/js/main.55e6c171.js",
+    "static/media/profile.jpeg": "//francisco-webdeveloper.github.io/business-card-react/static/media/profile.24cb75854291af381299.jpeg",
+    "index.html": "//francisco-webdeveloper.github.io/business-card-react/index.html",
+    "main.3322f003.css.map": "//francisco-webdeveloper.github.io/business-card-react/static/css/main.3322f003.css.map",
+    "main.55e6c171.js.map": "//francisco-webdeveloper.github.io/business-card-react/static/js/main.55e6c171.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3322f003.css",
+    "static/js/main.55e6c171.js"
+  ]
+}
